@@ -13,7 +13,7 @@ The background idea of the project is the websites like Quora, StackOverflow, et
 <br><figure>
     <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png"
          alt="Screenshot">
- <figcaption>User Module</figcaption>
+ <figcaption>User Module</figcaption><br>
 </figure><br>
 <figure>
     <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png"
