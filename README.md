@@ -1,5 +1,5 @@
 # Question-Answer-Platform Like Quora | Edugram
-This Question-Answer-Platform is a dynamic website named ["Edugram | where questions are themselves the answers"] which simulates the basic functioning of the famous website [Quora.]
+This Question-Answer-Platform is a dynamic website named ["Edugram | where questions are themselves the answers"] which simulates the basic functioning of the famous website [Quora.](https://www.quora.com/)
 
 Made for my academic project.
 
