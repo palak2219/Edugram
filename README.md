@@ -11,6 +11,14 @@ The background idea of the project is the websites like Quora, StackOverflow, et
 
 # Screenshot
 <p align="center">
-  <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png" alt="Screenshot"/>
-  <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png" alt="Screenshot"/>
+<figure>
+    <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png"
+         alt="Screenshot">
+ <figcaption>User Module</figcaption>
+</figure><br>
+<figure>
+    <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png"
+         alt="Screenshot">
+ <figcaption>Admin Module</figcaption>
+</figure>
 </p>
