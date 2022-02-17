@@ -11,6 +11,6 @@ The background idea of the project is the websites like Quora, StackOverflow, et
 
 # Screenshot
 <p align="center">
-  <img src="C:\xampp\htdocs\Edugram\images\user.png" alt="Screenshot"/>
-  <img src="C:\xampp\htdocs\Edugram\admin\images\admin.png" alt="Screenshot"/>
+  <img src="Edugram\images\user.png" alt="Screenshot"/>
+  <img src="Edugram\admin\images\admin.png" alt="Screenshot"/>
 </p>
