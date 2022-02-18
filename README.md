@@ -10,8 +10,9 @@ Made for my academic project.
 The background idea of the project is the websites like Quora, StackOverflow, etc. The project involves the use of MYSQL database, server side scripting through PHP and front hand using HTML, CSS and JQuery(i.e. JavaScript).
 
 # Screenshot
-## User Module
 <p align="center">
   <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png" alt="Screenshot"/> 
+User Module <br>
   <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png" alt="Screenshot"/>
+Admin Module
 </p>
