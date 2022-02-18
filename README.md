@@ -1,5 +1,5 @@
-# Question-Answer-Platform Like Quora | Edugram
-This Question-Answer-Platform is a dynamic website named ["Edugram | where questions are themselves the answers"] which simulates the basic functioning of the famous website [Quora.](https://www.quora.com/)
+# Question-Answer Platform Like Quora | Edugram
+This Question-Answer Platform is a dynamic website named ["Edugram | where questions are themselves the answers"] which simulates the basic functioning of the famous website [Quora.](https://www.quora.com/)
 
 Made for my academic project.
 
@@ -10,13 +10,8 @@ Made for my academic project.
 The background idea of the project is the websites like Quora, StackOverflow, etc. The project involves the use of MYSQL database, server side scripting through PHP and front hand using HTML, CSS and JQuery(i.e. JavaScript).
 
 # Screenshot
-<figure>
-    <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png"
-         alt="Screenshot">
- <figcaption>User Module</figcaption><br>
-</figure><br>
-<figure>
-    <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png"
-         alt="Screenshot">
- <figcaption>Admin Module</figcaption>
-</figure>
+## User Module
+<p align="center">
+  <img src="https://github.com/palak2219/Edugram/blob/Edugram/images/user.png" alt="Screenshot"/> 
+  <img src="https://github.com/palak2219/Edugram/blob/Edugram/admin/images/admin.png" alt="Screenshot"/>
+</p>
